@@ -43,11 +43,7 @@ RenderSettings:
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   serializedVersion: 11
-=======
-  serializedVersion: 12
->>>>>>> 18f1b3ddb75b7037d30d76883bf3abc40dea395b
   m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
@@ -102,11 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-<<<<<<< HEAD
   m_UseShadowmask: 1
-=======
-  m_LightingSettings: {fileID: 0}
->>>>>>> 18f1b3ddb75b7037d30d76883bf3abc40dea395b
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -212,7 +204,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &869508476
 GameObject:
   m_ObjectHideFlags: 0
@@ -294,5 +285,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> 18f1b3ddb75b7037d30d76883bf3abc40dea395b
